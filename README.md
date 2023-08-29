@@ -1,2 +1,2 @@
 # flutter-tic-tac-toe
-<img src="https://www.linkpicture.com/q/Screenshot-327_4.png">
+<img src="https://github.com/hmu35/flutter-tic-tac-toe/blob/main/WhatsApp%20Image%202023-08-29%20at%2015.36.07.jpg?raw=true">
